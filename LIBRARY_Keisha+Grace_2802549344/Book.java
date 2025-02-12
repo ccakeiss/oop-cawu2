@@ -7,5 +7,6 @@ public class Book {
         this.title = title;
         this.ISBN = ISBN;
         this.author = author;
+        System.out.println("HELO");
     }
 }
